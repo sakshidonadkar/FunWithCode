@@ -1,0 +1,21 @@
+/* App.css */
+body {
+  font-family: cursive;
+  margin: 0;
+  padding: 0;
+  background-color: #24242537;
+  background-image: url('https://static.vecteezy.com/system/resources/thumbnails/022/730/522/small/abstract-blue-background-with-smooth-lines-and-light-effects-photo.jpg'); /* Your background image URL */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh; /* Ensure it covers the whole viewport */
+}
+
+
+.App {
+  text-align: center;
+}
+
+nav {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
