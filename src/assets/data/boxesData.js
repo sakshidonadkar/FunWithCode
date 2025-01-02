@@ -7,7 +7,7 @@ export const boxesData = [
       githubLink: "https://github.com/example1",
     },
     {
-      title: "Box 2",
+      title: "Digital Clock",
       imageSrc: "https://via.placeholder.com/200",
       liveLink: "https://example.com/live2",
       githubLink: "https://github.com/example2",
