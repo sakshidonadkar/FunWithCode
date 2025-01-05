@@ -1,6 +1,13 @@
 // boxesData.js
 import RoundClock from './../images/RoundClock.png';
 import DigitalClock from './../images/DigitalClock.png';
+import Stopwatch from './../images/Stopwatch.png';
+import WeatherApp from './../images/WeatherApp.png';
+import CurrencyConverter from './../images/CurrencyConverter.png';
+import PasswordGenerator from './../images/PasswordGenerator.png';
+import GuessWord from './../images/GuessWord.png';
+import GuessNumber from './../images/GuessNumber.png';
+import GuessGf from './../images/GuessGf.png';
 export const boxesData = [
   {
     title: "Round Clock",
@@ -11,50 +18,50 @@ export const boxesData = [
   {
     title: "Digital Clock",
     imageSrc: DigitalClock,
-    liveLink: "https://example.com/live2",
-    githubLink: "https://github.com/example2",
+    liveLink: "https://digital-clock-gamma-nine.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/Digital_Clock",
   },
   {
     title: "Stopwatch",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live1",
-    githubLink: "https://github.com/example1",
+    imageSrc: Stopwatch,
+    liveLink: "https://stop-watch-two-gules.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/StopWatch",
   },
   {
     title: "Weather App",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live2",
-    githubLink: "https://github.com/example2",
+    imageSrc: WeatherApp,
+    liveLink: "https://weather-app-alpha-lake-60.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/Weather_App",
   },
   {
     title: "Currency Converter",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live1",
-    githubLink: "https://github.com/example1",
+    imageSrc: CurrencyConverter,
+    liveLink: "https://currency-converter-zeta-plum.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/Currency_Converter",
   },
   {
     title: "Password Generator",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live2",
-    githubLink: "https://github.com/example2",
+    imageSrc: PasswordGenerator,
+    liveLink: "https://password-generator-brown-two.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/Password_Generator",
   },
   {
     title: "Guess a Number",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live1",
-    githubLink: "https://github.com/example1",
+    imageSrc: GuessNumber,
+    liveLink: "https://guess-number-one-blush.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/Guess_Number",
   },
   {
     title: "Guess a Word",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live2",
-    githubLink: "https://github.com/example2",
+    imageSrc: GuessWord,
+    liveLink: "https://guess-word-iota.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/Guess_Word",
   },
   {
     title: "Guess Future GF",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live2",
-    githubLink: "https://github.com/example2",
+    imageSrc: GuessGf,
+    liveLink: "https://guess-my-gf.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/Guess_My_GF",
   },
   {
     title: "Tic Tac Toe",
