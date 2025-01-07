@@ -8,6 +8,14 @@ import PasswordGenerator from './../images/PasswordGenerator.png';
 import GuessWord from './../images/GuessWord.png';
 import GuessNumber from './../images/GuessNumber.png';
 import GuessGf from './../images/GuessGf.png';
+import TicTacToe from './../images/TicTacToe.png';
+import RockPaperScissor from './../images/RockPaperScissor.png';
+import DrumKit from './../images/DrumKit.png';
+import MemoryGame from './../images/MemoryGame.png';
+import LoveCalculator from './../images/LoveCalculator.png';
+import FindRecipe from './../images/FindRecipe.png';
+import PlayPiano from './../images/PlayPiano.png';
+import TodoApp from './../images/TodoApp.png';
 export const boxesData = [
   {
     title: "Round Clock",
@@ -65,51 +73,51 @@ export const boxesData = [
   },
   {
     title: "Tic Tac Toe",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live1",
-    githubLink: "https://github.com/example1",
+    imageSrc: TicTacToe,
+    liveLink: "https://java-script-tic-tac-toe-ten.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/JavaScript_Tic_Tac_Toe",
   },
   {
     title: "Rock Paper Scissor",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live2",
-    githubLink: "https://github.com/example2",
+    imageSrc: RockPaperScissor,
+    liveLink: "https://java-script-rock-paper-scissor-livid.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/JavaScript_Rock_Paper_Scissor",
   },
   {
     title: "Todo App",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live1",
-    githubLink: "https://github.com/example1",
+    imageSrc: TodoApp,
+    liveLink: "https://todo-app-six-topaz-15.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/Todo_App",
   },
   {
     title: "Drum Kit",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live2",
-    githubLink: "https://github.com/example2",
+    imageSrc: DrumKit,
+    liveLink: "https://drumkit-wheat.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/Drumkit",
   },
   {
     title: "Love Calculator",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live2",
-    githubLink: "https://github.com/example2",
+    imageSrc: LoveCalculator,
+    liveLink: "https://love-calculator-gules.vercel.app",
+    githubLink: "https://github.com/sakshidonadkar/LoveCalculator",
   },
   {
     title: "Find a Recipe",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live2",
-    githubLink: "https://github.com/example2",
+    imageSrc: FindRecipe,
+    liveLink: "https://find-recipe-six.vercel.app/",
+    githubLink: "https://github.com/sakshidonadkar/FindRecipe",
   },
   {
     title: "Test Your Memory",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live2",
-    githubLink: "https://github.com/example2",
+    imageSrc: MemoryGame,
+    liveLink: "https://memory-game-psi-azure.vercel.app/",
+    githubLink: "https://github.com/sakshidonadkar/MemoryGame",
   },
   {
     title: " Play Piano",
-    imageSrc: "https://via.placeholder.com/200",
-    liveLink: "https://example.com/live2",
-    githubLink: "https://github.com/example2",
+    imageSrc: PlayPiano,
+    liveLink: "https://play-piano-ashen.vercel.app/",
+    githubLink: "https://github.com/sakshidonadkar/PlayPiano",
   },
   // Add the other boxes similarly...
 ];

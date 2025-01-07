@@ -4,10 +4,10 @@ body {
   margin: 0;
   padding: 0;
   background-color: #24242537;
-  background-image: url('https://static.vecteezy.com/system/resources/thumbnails/022/730/522/small/abstract-blue-background-with-smooth-lines-and-light-effects-photo.jpg'); /* Your background image URL */
+  background-image: url('https://img.freepik.com/free-vector/blue-blurred-background-design_1107-117.jpg?semt=ais_hybrid'); 
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   height: 100vh; /* Ensure it covers the whole viewport */
 }
 
