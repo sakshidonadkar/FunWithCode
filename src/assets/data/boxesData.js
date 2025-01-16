@@ -77,12 +77,12 @@ export const boxesData = [
     liveLink: "https://java-script-tic-tac-toe-ten.vercel.app",
     githubLink: "https://github.com/sakshidonadkar/JavaScript_Tic_Tac_Toe",
   },
-  {
-    title: "Rock Paper Scissor",
-    imageSrc: RockPaperScissor,
-    liveLink: "https://java-script-rock-paper-scissor-livid.vercel.app",
-    githubLink: "https://github.com/sakshidonadkar/JavaScript_Rock_Paper_Scissor",
-  },
+  // {
+  //   title: "Rock Paper Scissor",
+  //   imageSrc: RockPaperScissor,
+  //   liveLink: "https://java-script-rock-paper-scissor-livid.vercel.app",
+  //   githubLink: "https://github.com/sakshidonadkar/JavaScript_Rock_Paper_Scissor",
+  // },
   {
     title: "Todo App",
     imageSrc: TodoApp,
@@ -107,12 +107,12 @@ export const boxesData = [
     liveLink: "https://find-recipe-six.vercel.app/",
     githubLink: "https://github.com/sakshidonadkar/FindRecipe",
   },
-  {
-    title: "Test Your Memory",
-    imageSrc: MemoryGame,
-    liveLink: "https://memory-game-psi-azure.vercel.app/",
-    githubLink: "https://github.com/sakshidonadkar/MemoryGame",
-  },
+  // {
+  //   title: "Test Your Memory",
+  //   imageSrc: MemoryGame,
+  //   liveLink: "https://memory-game-psi-azure.vercel.app/",
+  //   githubLink: "https://github.com/sakshidonadkar/MemoryGame",
+  // },
   {
     title: " Play Piano",
     imageSrc: PlayPiano,
